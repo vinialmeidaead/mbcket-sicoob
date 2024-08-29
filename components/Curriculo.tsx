@@ -20,7 +20,6 @@ const CurriculumSection = () => {
 
   const achievements = [
     "Mais de 30 anos atuando com a plataforma IBM Cognos",
-    "Atuou em mentorias técnicas para o Sicoob em 2023 pela área EPPC/EGPC e Universidade Corporativa",
     "Consultor especialista em Business Intelligence desde 1991",
     "Conhecedor de todas as versões lançadas pela COGNOS Software e IBM",
     "Atuação em diversas consultorias de TI em São Paulo, Curitiba, Ceará e Brasília",

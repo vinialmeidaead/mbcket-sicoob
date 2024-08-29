@@ -62,7 +62,7 @@ const EnhancedCourseInfoSection = () => {
               <div>
                 <h3 className="text-2xl font-bold mb-4 text-green-400">O Curso Definitivo de IBM Cognos Analytics</h3>
                 <p className="text-lg leading-relaxed mb-6">
-                  Mergulhe no mundo do <span className="font-bold text-yellow-400">IBM Cognos Analytics (Analítico)</span>, 
+                  Mergulhe no mundo do <span className="font-bold text-yellow-400">IBM Cognos Analytics</span>, 
                   dominando desde os fundamentos teóricos até as aplicações práticas mais avançadas. Transforme dados brutos 
                   em insights estratégicos que impulsionarão decisões de negócios revolucionárias.
                 </p>

@@ -31,7 +31,7 @@ const CourseOutcomesAndCTA = () => {
     },
     {
       title: "Inovar com Integrações e Automações",
-      description: "Integre o IBM Cognos com outras plataformas e automatize processos para expandir as capacidades analíticas e operacionais de sua organização.",
+      description: "Integre o IBM Cognos Analytics com outras plataformas e automatize processos para expandir as capacidades analíticas e operacionais de sua organização.",
       icon: "🔗"
     }
   ];

@@ -58,11 +58,12 @@ const CombinedOffersBanner = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <h2 className="text-3xl font-bold mb-4 text-green-400">
-              Oferta Especial para o Sicoob
+              Oferta Especial
             </h2>
             <p className="text-xl text-gray-300 mb-4">
-            R$ 3.999,00 por apenas R$ 2.999,00 à vista para as primeiras 50
-              vagas. Acesso contínuo às atualizações pelo período de 12 meses.<br/>
+              R$ 3.999,00 por apenas R$ 2.999,00 à vista para as primeiras 50
+              vagas. Acesso contínuo às atualizações pelo período de 12 meses.
+              <br />
               Ou parcelado em 12x R$ 315,59
             </p>
             <motion.a
@@ -86,8 +87,10 @@ const CombinedOffersBanner = () => {
               Oferta para Líderes e Gestores
             </h2>
             <p className="text-lg text-gray-300 mb-4">
-              Você que é Líder de Equipe, Coordenador, Gerente e Diretor de
-              Centrais ou Cooperativas ou que estejam no CCS:
+              Para você que é Líder de Equipe, Coordenador, Gerente de Projetos,
+              Gestor da área de Business Intelligence/TI ou Diretor aproveite
+              estas vantagens e ofereça este curso para todos os colaboradores
+              da sua equipe:
             </p>
             <ul className="text-md text-gray-300 mb-4 list-disc list-inside">
               <li>Solicite um cupom de desconto para sua equipe</li>

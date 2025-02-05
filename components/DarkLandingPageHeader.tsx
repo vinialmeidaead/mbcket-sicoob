@@ -87,6 +87,18 @@ const EnhancedDarkLandingPageHeader = () => {
           analítico e de tomada de decisão que você receberá após a conclusão
           deste curso de capacitação. Voe mais alto!
         </motion.p>
+        <motion.div
+          className="mb-8"
+          initial={{ scale: 0.5, opacity: 0 }}
+          animate={{ scale: 1, opacity: 1 }}
+          transition={{ duration: 0.8, delay: 0.5 }}
+        >
+          <img
+            src="/salario.jpg"
+            alt="Salário Médio de Profissionais de Business Intelligence"
+            className="mx-auto rounded-lg shadow-lg shadow-green-900 mb-6"
+          />
+        </motion.div>
 
         <motion.div
           className="mb-8"
